@@ -14,3 +14,5 @@ db.sqlite3
 db.sqlite3-journal
 db.sqlite3-wal
 db.sqlite3-shm
+log/djangocode-access.log
+log/djangocode-error.log
